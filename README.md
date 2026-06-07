@@ -1,8 +1,8 @@
-# Alex Chen — Portfolio
+# Alex Chen — Portfolio (https://lovingpersonliving.github.io/nodejs-porfolio/)
 
 A high-performance, award-winning personal portfolio built with cutting-edge web technologies. Designed to showcase world-class frontend engineering, creative development, and a keen eye for design.
 
-> **"Cyberpunk meets Swiss Design"** — Dark mode palette with electric blue accents, neon highlights, and precision typography.
+> **"Cyberpunk meets Swiss Design"** — Dark mode palette with electric blue accents, neon highlights, and precision typography. 
 
 ---
 
