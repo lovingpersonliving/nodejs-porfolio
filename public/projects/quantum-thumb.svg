@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D0D2B;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#1A1040;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0A1A3A;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0066FF;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#00E5FF;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#g1)"/>
+  <g transform="translate(600,280)">
+    <rect x="-80" y="-60" width="160" height="120" rx="12" fill="none" stroke="url(#g2)" stroke-width="2" opacity="0.6"/>
+    <rect x="-40" y="-30" width="80" height="60" rx="6" fill="url(#g2)" opacity="0.15"/>
+    <line x1="-60" y1="0" x2="60" y2="0" stroke="#00E5FF" stroke-width="0.5" opacity="0.3"/>
+    <line x1="0" y1="-50" x2="0" y2="50" stroke="#00E5FF" stroke-width="0.5" opacity="0.3"/>
+  </g>
+  <g font-family="Space Grotesk, sans-serif" text-anchor="middle">
+    <text x="600" y="420" fill="#F5F5F7" font-size="32" font-weight="700" letter-spacing="2">QUANTUM ANALYTICS</text>
+    <text x="600" y="450" fill="#A1A1AA" font-size="16" font-weight="400" letter-spacing="4">FINANCIAL INTELLIGENCE PLATFORM</text>
+  </g>
+  <g transform="translate(600,560)">
+    <rect x="-200" y="-12" width="400" height="24" rx="12" fill="#0066FF" opacity="0.1"/>
+    <rect x="-200" y="-12" width="320" height="24" rx="12" fill="#0066FF" opacity="0.3"/>
+  </g>
+  <g transform="translate(200,600)" fill="#A1A1AA" font-family="Inter, sans-serif" font-size="12">
+    <text x="0" y="0">2M+ events/sec</text>
+    <text x="300" y="0">99.7% latency reduction</text>
+    <text x="600" y="0">10K+ traders</text>
+  </g>
+</svg>

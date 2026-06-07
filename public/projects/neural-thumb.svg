@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A1A20;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0D2030;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A0D30;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#g1)"/>
+  <g stroke="#00FFAA" stroke-width="1" fill="none" opacity="0.3">
+    <circle cx="600" cy="300" r="120"/>
+    <circle cx="600" cy="300" r="80" stroke-dasharray="8 4"/>
+    <circle cx="600" cy="300" r="40" stroke="#00E5FF" opacity="0.5"/>
+  </g>
+  <g transform="translate(600,300)" stroke="#00FFAA" stroke-width="0.5" opacity="0.2">
+    <line x1="-150" y1="0" x2="150" y2="0"/>
+    <line x1="0" y1="-150" x2="0" y2="150"/>
+    <line x1="-106" y1="-106" x2="106" y2="106"/>
+    <line x1="-106" y1="106" x2="106" y2="-106"/>
+  </g>
+  <g font-family="Space Grotesk, sans-serif" text-anchor="middle">
+    <text x="600" y="480" fill="#F5F5F7" font-size="32" font-weight="700" letter-spacing="2">NEURAL CANVAS</text>
+    <text x="600" y="510" fill="#A1A1AA" font-size="16" font-weight="400" letter-spacing="4">AI-POWERED CREATIVE TOOL</text>
+  </g>
+  <g transform="translate(300,560)" font-family="Inter, sans-serif" font-size="12" fill="#A1A1AA">
+    <text x="0" y="10">★ 4.2K GitHub stars</text>
+    <text x="200" y="10">15K+ monthly users</text>
+    <text x="400" y="10">Awwwards SOTD</text>
+  </g>
+</svg>
