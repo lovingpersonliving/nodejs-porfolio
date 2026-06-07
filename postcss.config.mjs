@@ -1,10 +1,9 @@
-﻿/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: 'export',
-  images: {
-    unoptimized: true,
+/** @type {import('postcss').Config} */
+const config = {
+  plugins: {
+    tailwindcss: {},
+    autoprefixer: {},
   },
-  assetPrefix: '/nodejs-porfolio/',
 };
 
-export default nextConfig;
+export default config;
